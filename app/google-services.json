@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "505464943505",
+    "firebase_url": "https://astixvansalesindirect.firebaseio.com",
+    "project_id": "astixvansalesindirect",
+    "storage_bucket": "astixvansalesindirect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505464943505:android:0e09d01ffdbb8712",
+        "android_client_info": {
+          "package_name": "project.astix.com.astixvansalessfaindirect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505464943505-ac7cph71bce3mnsmlo7ot8dbfdsij2us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9HE224fYpcBwd-GGKiLxHPjQKg8iMdgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
